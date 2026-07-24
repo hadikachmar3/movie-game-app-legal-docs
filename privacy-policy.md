@@ -94,13 +94,20 @@ authenticated proxy. No system can guarantee absolute security. Please protect
 your credentials and report suspected account abuse to
 [coding.with.hadi@gmail.com](mailto:coding.with.hadi@gmail.com).
 
-## 9. Children
+## 9. Age requirement
 
-CineShelf is not directed to children. It is intended for users aged 13 and
-over. The catalogue may display artwork and descriptions for titles intended
-for mature audiences. We do not knowingly collect personal information from
-children under 13. If you believe a child has provided us with personal
-information, contact us and we will delete the account.
+CineShelf is not directed to children and is rated 16+. It is intended for
+users aged 16 and over.
+
+The app catalogues movies, television series, and video games supplied by
+third-party providers. That catalogue can include artwork and descriptions
+referencing violence, sexual content, strong language, and drug use. CineShelf
+does not stream or play any of that content; it displays cover artwork and
+written summaries only. Pornographic titles are excluded.
+
+We do not knowingly collect personal information from anyone under 16. If you
+believe someone under 16 has created an account, contact us and we will delete
+it.
 
 ## 10. International use
 
