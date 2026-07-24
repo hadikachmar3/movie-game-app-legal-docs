@@ -59,5 +59,4 @@ restored.
 
 ## Privacy policy
 
-See the CineShelf privacy policy:
-<https://www.freeprivacypolicy.com/live/524dfffb-ae76-4825-872d-99ed64a99a37>
+See the [CineShelf privacy policy](privacy-policy.md).

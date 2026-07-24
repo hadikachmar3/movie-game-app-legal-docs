@@ -3,6 +3,7 @@
 Public support and legal pages for the **CineShelf** Android app.
 
 - [Home](index.md)
+- [Privacy policy](privacy-policy.md)
 - [Delete your account](account-deletion.md)
 
 Contact: coding.with.hadi@gmail.com

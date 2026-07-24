@@ -7,8 +7,8 @@ Support: [coding.with.hadi@gmail.com](mailto:coding.with.hadi@gmail.com)
 
 ## Support and legal
 
+- [Privacy policy](privacy-policy.md)
 - [Delete your account](account-deletion.md)
-- [Privacy policy](https://www.freeprivacypolicy.com/live/524dfffb-ae76-4825-872d-99ed64a99a37)
 
 ## Attribution
 
